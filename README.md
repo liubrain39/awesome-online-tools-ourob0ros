@@ -25,6 +25,7 @@ A curated collection of useful online tools for developers, security researchers
   * [AI](#ai)
   * [Dorks](#dorks)
     * [Google Dorks](#google-dorks)
+* [Audio](#audio)
 
 ---
 
@@ -201,6 +202,14 @@ A curated collection of useful online tools for developers, security researchers
 | [Google Advanced Search](https://www.google.com/advanced_search)                                 | Advanced Google search                    | Free      | No           | No  |
 | [GitHub Search](https://github.com/search)                                                       | Public repository and code search         | Free      | No           | Yes |
 
+
+---
+
+# Audio
+
+| Tool | Purpose | Access | Registration | API |
+| --- | --- | --- | --- | --- |
+| [QuietTake Noise Remover](https://noiseremover.site/) | Browser-local speech noise reduction and WAV export; each file must be 50 MB or smaller and five minutes or shorter. | Free | No | Not documented |
 
 ---
 
